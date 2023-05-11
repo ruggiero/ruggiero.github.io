@@ -1,0 +1,37 @@
+body {
+  background-color: #f7f7f7;
+  font-family: sans-serif;
+  background-repeat: repeat;
+  background-position: left bottom;
+  margin-top: 40px;
+  max-width: 900px;
+  margin-bottom: 40px;
+}
+
+h1,
+h2,
+h3 {
+  color: #333;
+  text-align: left;
+  margin: 20px 0;
+  padding-left: 30px;
+}
+
+p {
+  color: #555;
+  font-size: 14px;
+  text-align: left;
+  margin: 0 30px;
+  line-height: 1.5;
+  padding-left: 30px;
+}
+
+a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #0056b3;
+  text-decoration: underline;
+}
